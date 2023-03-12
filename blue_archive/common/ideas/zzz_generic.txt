@@ -1,0 +1,33 @@
+ideas = {
+
+	hidden_ideas = {
+		
+	}
+
+	# Special ones that can be applied on other countries through focus system.
+	country = {
+		
+	}
+
+	# TECHNOLOGY
+	tank_manufacturer = { 
+	
+	}
+	
+	naval_manufacturer = { 
+	
+	}
+
+	aircraft_manufacturer = { 
+	
+	}
+
+	industrial_concern = {
+	
+	}
+
+	materiel_manufacturer = {
+	
+	}
+
+}

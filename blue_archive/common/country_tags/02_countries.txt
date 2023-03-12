@@ -1,0 +1,13 @@
+ABY	= "countries\Abydos.txt"
+ARI = "countries\Arius.txt"
+GHN = "countries\Gehenna.txt"
+HKI = "countries\Hyakkiyako.txt"
+MLN = "countries\Millennium.txt"
+RWT = "countries\Redwinter.txt"
+SCH = "countries\Schale.txt"
+SHJ = "countries\Shanhaijing.txt"
+SRT = "countries\SRTspecial.txt"
+TRI = "countries\Trinity.txt"
+
+
+#NOTE: Useful to add a basic default loc entry for each tag in 00_countries.txt so that hovering over a tag will show the tag's name in loc (ie. PAP: "Papal States")
